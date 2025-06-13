@@ -1,0 +1,25 @@
+Case Name:
+Gupta Enterprises v. National Bank of India
+
+Citation:
+(2025) 2 BLR (NBI) 78
+
+Full Legal Case Text:
+Gupta Enterprises, a construction firm, has filed a breach of contract lawsuit against the National Bank of India. The dispute arises from a delayed disbursement of a project finance loan sanctioned for a large-scale infrastructure project. Gupta Enterprises alleges that the bankâ€™s failure to disburse funds by the agreed-upon date led to significant project delays, increased material costs, and penalties imposed by the project owner, a government agency. The contract stipulated a clear timeline for fund release contingent upon certain milestones, which Gupta Enterprises claims were met. The bank, however, asserts that Gupta Enterprises failed to provide all necessary documentation for compliance with anti-money laundering (AML) regulations and internal risk assessment protocols, thus justifying the delay.
+   The primary legal issue revolves around the interpretation of the loan agreementâ€™s conditions precedent for disbursement and the extent to which regulatory compliance obligations supersede contractual timelines. Gupta Enterprises is seeking compensation for lost profits, cost overruns, and reputational damage. The National Bank of India is contending that its actions were prudent and in line with its fiduciary duties and regulatory mandates, aiming to limit its liability to the actual funds disbursed, if any, rather than consequential damages.
+   Evidence includes the loan agreement, correspondence between the parties, project progress reports, and documentation requests from the bank. The potential for a large claim for consequential damages poses a significant risk for the bank. The case highlights the tension between contractual obligations and evolving regulatory compliance requirements in the financial sector.
+
+Parties:
+Plaintiff: Gupta Enterprises; Defendant: National Bank of India.
+
+Issues:
+Breach of contract, delayed loan disbursement, interpretation of loan agreement conditions, applicability of AML regulations, consequential damages.
+
+Risks:
+High financial liability for the bank due to consequential damages, reputational damage for both parties, setting a precedent for future loan agreements and regulatory compliance, complex interplay between contract law and banking regulations.
+
+Summary:
+Gupta Enterprises is suing the National Bank of India for breach of contract due to delayed disbursement of a project finance loan. The construction firm claims the delay caused significant project setbacks, increased costs, and penalties. Gupta Enterprises argues it met all contractual milestones, while the bank asserts delays were due to the firm's failure to provide necessary AML and risk assessment documentation.
+   The case hinges on interpreting the loan agreement's conditions precedent for disbursement versus the bank's regulatory compliance obligations. Gupta Enterprises seeks compensation for lost profits and damages, while the bank aims to limit its liability, asserting its actions were prudent and compliant.
+   Evidence includes the loan agreement and correspondence. A key risk for the bank is significant financial liability from consequential damages. The case underscores the challenges in balancing contractual duties with evolving regulatory requirements in the financial industry.
+
