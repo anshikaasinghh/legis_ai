@@ -1,0 +1,6 @@
+__pycache__/
+extracted_cases/
+*.json
+*.pdf
+generate_case_file.py
+agentic_prompt.py
