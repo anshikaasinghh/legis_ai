@@ -5,6 +5,10 @@ import json
 import json
 from agentic_engine import analyze_case_with_agents, create_pdf_report
 
+import os
+os.system("pip install google-generativeai==0.8.3")
+
+
 # Initialize session state for chat history
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
