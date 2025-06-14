@@ -2,8 +2,10 @@ import streamlit as st
 import google.generativeai as genai
 
 
-import os
-os.system("pip install google-generativeai==0.8.3")
+
+
+import subprocess
+subprocess.run(["pip", "install", "--upgrade", "google-generativeai"])
 
 
 st.title("Test Google Generative AI")
