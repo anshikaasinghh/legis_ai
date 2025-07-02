@@ -5,7 +5,7 @@ from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
 
 #load all env variables
-genai.configure(api_key='''AIzaSyAUD7wyBizj2rH_UO5N8MuMIgz7-9_1tfk''')
+genai.configure(api_key='''''')
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 
