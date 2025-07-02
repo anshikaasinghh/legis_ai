@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 
 #load all env variables
-genai.configure(api_key='''AIzaSyAUD7wyBizj2rH_UO5N8MuMIgz7-9_1tfk''')
+genai.configure(api_key='''''')
 # 1. Load your vector DB
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 db = FAISS.load_local("vector_db", embedding_model, allow_dangerous_deserialization=True)
